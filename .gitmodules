@@ -1,0 +1,9 @@
+[submodule "software_factory_sample_solutions"]
+	path = software_factory_sample_solutions
+	url = https://github.com/Servoy/software_factory_sample_solutions.git
+[submodule "software_factory_build_scripts"]
+	path = software_factory_build_scripts
+	url = https://github.com/Servoy/software_factory_build_scripts.git
+[submodule "software_factory_build_tools"]
+	path = software_factory_build_tools
+	url = https://github.com/Servoy/software_factory_build_tools.git
