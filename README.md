@@ -1,3 +1,7 @@
+**Deprecation NOTE:** this repository is no longer maintained/updated to work with recent versions of Servoy.
+You can use it as a starting point and adjust it yourself to be compatible with recent versions, but we recommend that you try out Servoy Cloud as an alternative: https://www.servoy.com/servoycloud/
+Servoy Cloud will take away a lot of the hassle of building and maintaining a full build/test/deploy pipeline yourself.
+
 # Servoy Software Factory Example - Aggregated Repository
 
 The parent repository that has as git submodules all the needed Servoy Software Factory example repositories - for Jenkins checkout.
